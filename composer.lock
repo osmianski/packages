@@ -4,8 +4,53 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7edbb5ce33db7442b7c3faefed7964cd",
+    "content-hash": "cddb775266a2f1a95ac348889490e1b1",
     "packages": [
+        {
+            "name": "osmianski/attributes",
+            "version": "v0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/osmianski/attributes.git",
+                "reference": "bd322327c3fdace8ba5c5a9811dcb2e6cde1c2ca"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/osmianski/attributes/zipball/bd322327c3fdace8ba5c5a9811dcb2e6cde1c2ca",
+                "reference": "bd322327c3fdace8ba5c5a9811dcb2e6cde1c2ca",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Osmianski\\Attributes\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Vladislav Osmianskij",
+                    "email": "vlaosm@gmail.com",
+                    "homepage": "https://osmianski.com/"
+                }
+            ],
+            "description": "A library containing various attributes used by other `osmianski/*` packages.",
+            "homepage": "https://github.com/osmianski/attributes",
+            "keywords": [
+                "attributes"
+            ],
+            "support": {
+                "issues": "https://github.com/osmianski/attributes/issues",
+                "source": "https://github.com/osmianski/attributes/tree/v0.1.0"
+            },
+            "time": "2023-03-28T20:59:28+00:00"
+        },
         {
             "name": "osmianski/lazy-properties",
             "version": "v0.1.1",

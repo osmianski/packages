@@ -14,7 +14,11 @@
     "require": {
         "php": ">=8.1",
         "osmianski/not-implemented": "^0.1.0",
-        "osmianski/lazy-properties": "^0.1.1"
+        "osmianski/lazy-properties": "^0.1.1",
+        "osmianski/attributes": "^0.1.0"
+    },
+    "require-dev": {
+        "pestphp/pest": "^2.3"
     },
     "autoload": {
         "psr-4": {
@@ -25,9 +29,6 @@
         "psr-4": {
             "Osmianski\\Packages\\Tests\\": "tests"
         }
-    },
-    "require-dev": {
-        "pestphp/pest": "^2.3"
     },
     "config": {
         "allow-plugins": {
