@@ -1,4 +1,4 @@
-# `osmianski/code-index`
+# `osmianski/packages`
 
 A library that returns a list of installed Composer packages.
 
