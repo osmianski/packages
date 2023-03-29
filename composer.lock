@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "osmianski/attributes",
-            "version": "v0.1.0",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/osmianski/attributes.git",
-                "reference": "bd322327c3fdace8ba5c5a9811dcb2e6cde1c2ca"
+                "reference": "d6f73cade37c97abfa77a8c123c699b9ae39f992"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/osmianski/attributes/zipball/bd322327c3fdace8ba5c5a9811dcb2e6cde1c2ca",
-                "reference": "bd322327c3fdace8ba5c5a9811dcb2e6cde1c2ca",
+                "url": "https://api.github.com/repos/osmianski/attributes/zipball/d6f73cade37c97abfa77a8c123c699b9ae39f992",
+                "reference": "d6f73cade37c97abfa77a8c123c699b9ae39f992",
                 "shasum": ""
             },
             "require": {
@@ -47,9 +47,9 @@
             ],
             "support": {
                 "issues": "https://github.com/osmianski/attributes/issues",
-                "source": "https://github.com/osmianski/attributes/tree/v0.1.0"
+                "source": "https://github.com/osmianski/attributes/tree/v0.1.1"
             },
-            "time": "2023-03-28T20:59:28+00:00"
+            "time": "2023-03-29T20:20:11+00:00"
         },
         {
             "name": "osmianski/lazy-properties",
